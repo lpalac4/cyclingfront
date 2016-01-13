@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+    <ImageView
+        android:id="@+id/user_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="10dp"
+        android:background="@android:drawable/ic_menu_myplaces"/>
+    <TextView 
+        android:id="@+id/username_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_toRightOf="@+id/user_image"
+        android:layout_above="@+id/user_level"
+        android:text="ps_username"
+        />
+    
+    <TextView 
+        android:id="@+id/user_level"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="5dp"
+        android:layout_alignBottom="@id/user_image"
+        android:layout_toRightOf="@+id/user_image"
+        android:text="ps_level"
+        />
+
+    <TextView
+        android:id="@+id/list_rides_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/user_image"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/user_image"
+        android:text="Your Rides"
+        android:layout_marginTop="10dp"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_rides"
+        android:layout_alignLeft="@id/user_image"
+        android:layout_below="@+id/list_rides_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="10dp">
+        
+    </android.support.v7.widget.RecyclerView>
+    
+</RelativeLayout>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-b52c5b4ed4c1dfd88ca35791f29a051e0323b0a5.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-dcf50ce623d482f02199ed5478ac908f5cd179f2.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-3a9a876dbf25b66b201196c802b9eda3b2bcaac7.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-bd17dd4f9b4dff1dd2b69bc5ce078d7daeb939c3.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-61e69887b47bd75b83fe218d4469b1106675388a.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-a9965978c0737dcaf7840d3b12d12ac942cc8295.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-1af61837a46afd84b24467b7ad0011f26c9901ee.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-c511a1e65ee38714550db668996c0ca4a4aed263.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-86c98543c84bc46401c3cac47fcd6bbe62846dd2.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-a2ae6bbb633e50b6b1b19f6e344c02207ea48e30.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-622dad2f570c1b3efbff370e924f08322b510b16.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-d4da5236dff09fd21d6139e01f21e0a56f6ec372.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-0f3d3e38192161256f9fb644dc5bd8dc804d35c3.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-2d3a58491d0efdbe3a916ab82a25fbba460abf5a.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-2cfa0ab8b8b0421013ded5d4e337a93ed51e07cc.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-68caae26c1f7e15e71362ec8944bd124e8904cab.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-5430bf2a9885fd193de3a036a0adc61fafc41d13.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-be25b803dee902beb6a7582417e595b0e0eeacea.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-b754bff400c7ff6582b21eb2fb898672525023ac.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-01ca39d1d23406b83693b8595458ccefeb0e2605.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-a9ff187f9faf5bc5f95971037557bba08a65b78f.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-9efc44031de924c14fcbb931b5f381bbae671a99.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-480c92de64b76645b23d866ba6283cc39e33d0f2.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-fe766e6b55cb33d6818ff9167f1af50246719e9b.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-140722e25503dc39be2e8a89870ec127cf49191d.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-c03361a6e3f82be611de9b9d84a0ccd4bc76d5f7.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-81479cd3c188e2c4f3d96be04cedc3c7b6bdad87.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-f46aaaed4d9549fe625f2d77a6346598b0cbf9fb.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b5ae8e0296b9516be335bde42a728088d8c11311.jar" />
+    </item>
+    <item
+        jar="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/build/intermediates/pre-dexed/debug/classes-e39ff64475670969b9df2a1f630cff06316aee3b.jar" />
+    </item>
+
+</items>

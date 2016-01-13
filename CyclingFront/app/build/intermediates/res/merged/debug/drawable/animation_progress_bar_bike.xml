@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<!--     <item android:drawable="@drawable/loading_bike1" android:duration="200" /> -->
+<!--     <item android:drawable="@drawable/loading_bike2" android:duration="200" /> -->
+<!--     <item android:drawable="@drawable/loading_bike3" android:duration="200" /> -->
+<!--     <item android:drawable="@drawable/loading_bike4" android:duration="200" /> -->
+
+</animation-list>
+<!-- From: file:/Users/luispalacios/Downloads/CyclingFront/CyclingFront/app/src/main/res/drawable/animation_progress_bar_bike.xml -->
